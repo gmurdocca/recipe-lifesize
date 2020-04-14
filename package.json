@@ -1,0 +1,13 @@
+{
+    "id": "lifesize",
+    "name": "Lifesize",
+    "version": "1.0.0",
+    "description": "lifesize.com",
+    "main": "index.js",
+    "author": "George Murdocca <george@linuxdojo.com>",
+    "repository": "",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://webapp.lifesize.com/"
+    }
+}
